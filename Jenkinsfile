@@ -85,8 +85,6 @@ pipeline {
                 sh "chmod +x robot.sh"
                 sh "./robot.sh"
             }
-        }    
-
-        
+        }
     }
 }
